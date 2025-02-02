@@ -55,7 +55,7 @@ Follow these steps to set up and run the project locally:
 # Setting Up the Backend
 
 1. Clone the repository:
-   git clone https://github.com/your-username/expense-tracker-demo.git
+   git clone https://github.com/satyam-software-developer/expense-tracker-demo.git
    cd expense-tracker-demo
    cd server
 2. Install the required dependencies:
