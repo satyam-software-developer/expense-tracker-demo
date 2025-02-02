@@ -110,3 +110,5 @@ Your project will be evaluated on the following:
 # License
 
 This project is licensed under the MIT License.
+# Author
+Satyam Kumar
